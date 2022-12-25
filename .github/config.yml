@@ -1,0 +1,33 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Hello there! Welcome to the project! 💖
+  
+  
+  Thank you for opening your very first issue here. Hope you have a great time here!😄 
+
+
+  Besides, don’t forget to ⭐ the repository, if you haven’t already!
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  Hello there! Welcome to the project! 💖
+  
+
+  Thanks for opening your very first pull request here! ✨ We will get back to you as soon as we can. [![Share on Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=I%20submitted%20my%20first%20PR%20to%20this%20new%20full-stack%20web%20development%20framework!💫:%20&url=https://github.com/Atri-Labs/atrilabs-engine&via=atrilabs&hashtags=webframework,fullstack,react,python)
+  
+  
+  Besides, don’t forget to ⭐ the repository, if you haven’t already!
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+  Congrats on merging your first pull request! 🎉🎉🎉 [![Share on Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=I%20made%20a%20code%20contribution%20to%20this%20new%20full-stack%20web%20development%20framework!🎉:%20&url=https://github.com/Atri-Labs/atrilabs-engine&via=atrilabs&hashtags=webframework,fullstack,react,python)
+
+# It is recommended to include as many gifs and emojis as possible!

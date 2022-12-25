@@ -1,0 +1,30 @@
+{
+  "name": "eslint-plugin-atrilabs",
+  "version": "0.0.89",
+  "description": "> TODO: description",
+  "author": "cruxcode <swaroopshyam0@gmail.com>",
+  "homepage": "https://github.com/cruxcode/atrilabs-engine#readme",
+  "license": "ISC",
+  "main": "src/index.js",
+  "directories": {
+    "lib": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruxcode/atrilabs-engine.git"
+  },
+  "scripts": {},
+  "bugs": {
+    "url": "https://github.com/cruxcode/atrilabs-engine/issues"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}

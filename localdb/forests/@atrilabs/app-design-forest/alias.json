@@ -1,0 +1,18 @@
+{
+  "HistogramChart": 1,
+  "BarChart": 2,
+  "CandleStick": 1,
+  "AreaChart": 1,
+  "Flex": 492,
+  "Image": 278,
+  "TextBox": 631,
+  "Link": 16,
+  "Div": 471,
+  "Button": 9,
+  "Input": 4,
+  "Step": 5,
+  "Radio": 1,
+  "Icon": 4,
+  "Accordion": 1,
+  "Carousel": 9
+}
