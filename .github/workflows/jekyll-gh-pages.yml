@@ -32,7 +32,7 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./Sagar0126/My_ap2/blob/main/.github/index.html
+          source: ./Sagar0126/My_ap2
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
