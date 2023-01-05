@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
-          path: 'Sagar0126/My_ap2/blob/main/.github/index.html'
+          path: 'Sagar0126/My_ap2'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
